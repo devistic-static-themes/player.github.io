@@ -1,5 +1,4 @@
-# player.github.io
-Audio and Video websites
+# Audio and Video websites
 
 ---
 ## How to Download?
